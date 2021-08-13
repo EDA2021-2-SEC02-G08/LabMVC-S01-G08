@@ -32,6 +32,6 @@ Datos de los estudiantes:
 
 Daniel Dorado Toro - df.dorado@uniandes.edu.co - 201821010
 
-Juan Camilo Neira Campos - <<email>>@uniandes.edu.co - <<código>> 
+Juan Camilo Neira Campos - j.neira@uniandes.edu.co - 201922746
 
 
